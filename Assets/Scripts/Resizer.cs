@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Changer : MonoBehaviour
+public class Resizer : MonoBehaviour
 {
     [SerializeField] private float _increaseRate = 0.1f;
 
